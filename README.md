@@ -8,7 +8,7 @@
   <h1>Hi, I'm Muhammad Usama Rasheed 👋</h1>
 
   <p>
-    <b>Full-Stack Developer</b> • React / Angular • FastAPI / Node.js • AI & RAG Integrations
+    <b>AI Full-Stack Developer</b> • React / Angular • FastAPI / Node.js • AI & RAG Integrations
   </p>
 
   <!-- Typing headline -->
